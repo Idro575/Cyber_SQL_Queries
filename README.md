@@ -1,5 +1,5 @@
-Welcome to the repository showcasing three useful projects related to log filtering with SQL, 
-changing file permissions with Linux, and file operations using Python.
+Welcome to the repository showcasing 8 useful projects related to log filtering with SQL, 
+changing file permissions with Linux, file operations using Python and some Phishing Analysis.
 
 Project 1: Log Filtering with SQL
 This project demonstrates how to efficiently filter and extract relevant information from log files using SQL queries. 
